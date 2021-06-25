@@ -1,4 +1,4 @@
 test1 F1, F2-1, F2-2, B1-1, B1-2
 test2
-test3
+test3 B2-1
 F1-2
